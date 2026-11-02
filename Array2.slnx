@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/doc/" />
+  <Folder Name="/src/">
+    <Project Path="src/BlaisePascal.Array2.Domain/BlaisePascal.Array2.Domain.csproj" />
+    <Project Path="src/BlaisePascal.Array2.UIConsole/BlaisePascal.Array2.UIConsole.csproj" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
